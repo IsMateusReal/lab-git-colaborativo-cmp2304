@@ -1,6 +1,7 @@
 # Lista de Presença - Atividade de Laboratório Git/GitHub
 20231003300635 Thiago Henrique Souza Rodrigues
 20212003300167 Guilherme Aguiar Moreira
+20231003300546 Mateus Afonso Miranda de Oliveira
 
 
 
